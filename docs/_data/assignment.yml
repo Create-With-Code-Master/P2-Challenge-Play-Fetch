@@ -1,10 +1,10 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
 # Git stuff
-git-curr-branch:
-git-prev-branch: 
+git-curr-branch: challenge
+git-prev-branch: lesson-4
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson:
+lesson: https://learn.unity.com/tutorial/challenge-2-play-fetch-with-random-values-and-arrays
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
