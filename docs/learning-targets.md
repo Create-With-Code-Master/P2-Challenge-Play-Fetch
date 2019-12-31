@@ -4,10 +4,11 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-I can:
+By the end of this lesson, you will be able to:
 
-* 
-* 
+*
+*
+*
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
